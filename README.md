@@ -5,3 +5,4 @@ JSON estáticos para mostrar una lista de elementos en el navegador.
 ## Autores
 
 Este proyecto fue creado por:
+- Noe Martinez Flores
