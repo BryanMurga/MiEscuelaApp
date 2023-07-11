@@ -6,3 +6,4 @@ JSON estáticos para mostrar una lista de elementos en el navegador.
 
 Este proyecto fue creado por:
 - Noe Martinez Flores
+- Aldahir Gomez Garcia
