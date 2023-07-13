@@ -9,3 +9,4 @@ Este proyecto fue creado por:
 - Aldahir Gomez Garcia
 - Bryan Mitchel Murga Arcos
 - Milton Jesus Jaimes Perez
+- Kenia Reyes Molina
