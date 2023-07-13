@@ -1,0 +1,132 @@
+[
+    {
+        "carrera": "Ingeniería en Sistemas Computacionales",
+        "area": "Tecnología de la Información",
+        "descripcion": "Forma profesionales capaces de diseñar, desarrollar, implementar y administrar sistemas de información y tecnologías de la información.",
+        "habilidades": [
+            "Programación",
+            "Análisis de sistemas",
+            "Base de datos",
+            "Redes de computadoras"
+        ],
+        "duración": "4 años",
+        "titulación": "Ingeniero en Sistemas Computacionales"
+    },
+    {
+        "carrera": "Medicina",
+        "area": "Ciencias de la Salud",
+        "descripcion": "Forma profesionales capaces de prevenir, diagnosticar y tratar enfermedades y lesiones en seres humanos.",
+        "habilidades": [
+            "Conocimientos en anatomía y fisiología humana",
+            "Capacidad para trabajar en equipo",
+            "Habilidad para tomar decisiones importantes",
+            "Capacidad para manejar situaciones de alta presión"
+        ],
+        "duración": "6 años",
+        "titulación": "Médico Cirujano"
+    },
+    {
+        "carrera": "Derecho",
+        "area": "Ciencias Sociales y Humanidades",
+        "descripcion": "Forma profesionales capaces de aplicar las leyes y normas en la resolución de conflictos jurídicos.",
+        "habilidades": [
+            "Capacidad para analizar situaciones y tomar decisiones",
+            "Conocimiento y comprensión de leyes y regulaciones",
+            "Habilidad para argumentar y persuadir",
+            "Habilidades de investigación y redacción"
+        ],
+        "duración": "5 años",
+        "titulación": "Licenciado en Derecho"
+    },
+    {
+        "carrera": "Administración de Empresas",
+        "area": "Economía y Negocios",
+        "descripcion": "Forma profesionales capaces de planificar, organizar, coordinar y controlar los recursos y procesos de una organización.",
+        "habilidades": [
+            "Habilidades de liderazgo y gestión",
+            "Conocimiento y comprensión de finanzas y contabilidad",
+            "Habilidad para tomar decisiones",
+            "Habilidad para resolver problemas"
+        ],
+        "duración": "4 años",
+        "titulación": "Licenciado en Administración de Empresas"
+    },
+    {
+        "carrera": "Psicología",
+        "area": "Ciencias Sociales y Humanidades",
+        "descripcion": "Forma profesionales capaces de entender el comportamiento humano y ayudar a las personas a superar dificultades emocionales y psicológicas.",
+        "habilidades": [
+            "Habilidad para escuchar y entender a los demás",
+            "Capacidad para analizar y evaluar el comportamiento humano",
+            "Habilidades de comunicación efectiva",
+            "Habilidad para trabajar en equipo"
+        ],
+        "duración": "5 años",
+        "titulación": "Licenciado en Psicología"
+    },
+    {
+        "carrera": "Arquitectura",
+        "area": "Artes y Diseño",
+        "descripcion": "Forma profesionales capaces de diseñar y construir edificios y estructuras que sean funcionales, seguras, estéticas y sostenibles.",
+        "habilidades": [
+            "Habilidad para visualizar y conceptualizar espacios",
+            "Conocimiento de materiales y técnicas de construcción",
+            "Habilidad para resolver problemas",
+            "Habilidades de comunicación y trabajo en equipo"
+        ],
+        "duración": "5 años",
+        "titulación": "Arquitecto"
+    },
+    {
+        "carrera": "Comunicación",
+        "area": "Ciencias Sociales y Humanidades",
+        "descripcion": "Forma profesionales capaces de crear, producir y difundir mensajes a través de diversos medios y canales de comunicación.",
+        "habilidades": [
+            "Habilidades de escritura y redacción",
+            "Habilidades de investigación y análisis",
+            "Habilidades de comunicación efectiva",
+            "Capacidad para trabajar bajo presión y con plazos ajustados"
+        ],
+        "duración": "4 años",
+        "titulación": "Licenciado en Comunicación"
+    },
+    {
+        "carrera": "Diseño Gráfico",
+        "area": "Artes y Diseño",
+        "descripcion": "Forma profesionales capaces de crear soluciones visuales para comunicar mensajes y conceptos a través de diferentes medios.",
+        "habilidades": [
+            "Habilidad para conceptualizar y diseñar soluciones visuales",
+            "Conocimiento de herramientas y software de diseño gráfico",
+            "Habilidad para trabajar bajo presión y con plazos ajustados",
+            "Capacidad para comunicar y presentar ideas de manera efectiva"
+        ],
+        "duración": "4 años",
+        "titulación": "Licenciado en Diseño Gráfico"
+    },
+    {
+        "carrera": "Ingeniería Civil",
+        "area": "Ingeniería y Tecnología",
+        "descripcion": "Forma profesionales capaces de diseñar, construir, mantener y mejorar infraestructuras y edificaciones de todo tipo.",
+        "habilidades": [
+            "Habilidad para resolver problemas y tomar decisiones",
+            "Conocimiento de materiales y técnicas de construcción",
+            "Habilidad para trabajar en equipo y liderazgo",
+            "Habilidad para planificar y gestionar proyectos"
+        ],
+        "duración": "5 años",
+        "titulación": "Ingeniero Civil"
+    },
+    {
+        "carrera": "Enfermería",
+        "area": "Ciencias de la Salud",
+        "descripcion": "Forma profesionales capaces de brindar cuidados y atención a pacientes en diferentes estados de salud.",
+        "habilidades": [
+            "Habilidad para trabajar en equipo y liderazgo",
+            "Conocimientos en anatomía y fisiología humana",
+            "Habilidad para tomar decisiones importantes",
+            "Capacidad para manejar situaciones de alta presión"
+        ],
+        "duración": "4 años",
+        "titulación": "Licenciado en Enfermería"
+    }
+]
